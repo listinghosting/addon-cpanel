@@ -1,0 +1,25 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "cpanel",
+    "Strings": [
+        {
+            "slug": "cpanel_remote_access_key",
+            "text": "cPanel Remote Access Key"
+        },
+        {
+            "slug": "cpanel_server_custom_fields",
+            "text": "cPanel Server Custom Fields"
+        },
+        {
+            "slug": "cpanel_server_remote_access_key_help_text",
+            "text": "You can get your remote access key from WHM by going to Home &gt; Cluster\/Remote Access &gt; Setup Remote Access Key"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}

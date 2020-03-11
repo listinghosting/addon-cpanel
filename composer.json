@@ -1,0 +1,12 @@
+{
+    "name": "listinghosting/addon-cpanel",
+    "type": "listinghosting-addon",
+    "description": "cPanel plugin for use within WHSuite",
+    "license": "",
+    "authors": [
+        {
+            "name": "listinghosting",
+            "email": "git@listinghosting.com"
+        }
+    ]
+}
